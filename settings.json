@@ -1,0 +1,107 @@
+{
+  "symbols.hidesExplorerArrows": false,
+  "workbench.sideBar.location": "right",
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "editor.hideCursorInOverviewRuler": true,
+  "breadcrumbs.enabled": false,
+  "editor.overviewRulerBorder": false,
+  "editor.guides.indentation": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.matchBrackets": "never",
+  "window.menuBarVisibility": "compact",
+  "editor.fontLigatures": true,
+  "window.commandCenter": false,
+  "editor.glyphMargin": false,
+  "workbench.statusBar.visible": true,
+  "workbench.activityBar.iconClickBehavior": "toggle",
+  "workbench.layoutControl.enabled": false,
+  "editor.wordWrap": "on",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorSmoothCaretAnimation": "explicit",
+  "rapidapi.terminalLink.enabled": false,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cmake.configureOnOpen": true,
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.fontFamily": "Cascadia Code",
+  "material-icon-theme.opacity": 1,
+  "workbench.list.smoothScrolling": true,
+  "editor.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "workbench.editor.showTabs": "none",
+  "svelte.enable-ts-plugin": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "git.openRepositoryInParentFolders": "always",
+  "glassit.alpha": 220,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorWidth": 3,
+  "vscode_custom_css.imports": [
+    "file:///c:/Users/Admin/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+  ],
+  "workbench.activityBar.location": "default",
+  "[python]": {
+    "editor.defaultFormatter": "KevinRose.vsc-python-indent"
+  },
+  "workbench.colorTheme": "Tokyo Night",
+  "go.toolsManagement.autoUpdate": true,
+  "redhat.telemetry.enabled": true,
+  "terminal.integrated.env.windows": {},
+  "oneDarkPro.bold": true,
+  "oneDarkPro.vivid": true,
+  "console-ninja.toolsToEnableSupportAutomaticallyFor": {
+    "live-server-extension": true,
+    "live-preview-extension": true
+  },
+  "editor.minimap.renderCharacters": false,
+  "go.testEnvFile": "",
+  "console-ninja.output.showLogsOnlyFromOpenedFiles": true,
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "editor.stickyScroll.enabled": false,
+  "terminal.integrated.fontFamily": "Hack Nerd Font Mono",
+  "explorer.fileNesting.patterns": {
+    "*.ts": "${capture}.js",
+    "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+    "*.jsx": "${capture}.js",
+    "*.tsx": "${capture}.ts",
+    "tsconfig.json": "tsconfig.*.json",
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb",
+    "pubspec.yaml": "pubspec.lock,pubspec_overrides.yaml,.packages,.flutter-plugins,.flutter-plugins-dependencies,.metadata",
+    "*.dart": "${capture}.g.dart",
+    "Cargo.toml": "Cargo.lock",
+    "*.sqlite": "${capture}.${extname}-*",
+    "*.db": "${capture}.${extname}-*",
+    "*.sqlite3": "${capture}.${extname}-*",
+    "*.db3": "${capture}.${extname}-*",
+    "*.sdb": "${capture}.${extname}-*",
+    "*.s3db": "${capture}.${extname}-*"
+  },
+  "sqltools.useNodeRuntime": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+  /*"material-icon-theme.files.color": "#90a4ae"*/
+}
