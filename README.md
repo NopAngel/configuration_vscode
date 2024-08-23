@@ -15,7 +15,7 @@ This is a VSCode theme that I use, since it is much simpler and more comfortable
 
 <hr />
 
-[Material Icon Theme - VSCode](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/images/fileIcons.png)
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/images/fileIcons.png" style="max-width:100%;" />
 
 # Material Icon Theme
 
